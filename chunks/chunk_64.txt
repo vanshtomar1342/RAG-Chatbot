@@ -1,0 +1,11 @@
+are invalid or unenforceable as to a particular claim or request for relief (such as a request 
+for public injunctive relief), you and eBay agree that that particular claim or request for relief 
+(and only that particular claim or request for relief) shall be severed from the arbitration and 
+may be brought in court (pursuant to Section 19.C below), subject to your and eBay's right to 
+appeal the court's decision. All other Disputes, aside from those explicitly exempted in 
+Sections 19.B (above), shall be arbitrated. This section does not prevent you or eBay from 
+participating in a class-wide settlement of claims. 
+4. Arbitration Procedures 
+Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator 
+instead of a judge or jury, and court review of an arbitration award is very limited. However, 
+an arbitrator can award the same damages and relief on an individualized basis that a court
