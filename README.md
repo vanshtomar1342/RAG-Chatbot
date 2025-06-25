@@ -34,6 +34,7 @@ The Streamlit app provides a simple interface. The user uploads a PDF, enters a 
 (Note: Your current code does not implement true token-by-token streaming from the LLM, but the UI does show a spinner while processing and then displays the full answer.)
 
 Project Architecture & Flow (overview)
+
 Upload PDF: You upload a PDF file using a web interface (Streamlit).
 Chunking: The PDF is split into smaller text chunks.
 Embeddings: Each chunk is converted into a vector (embedding) using a HuggingFace model.
