@@ -42,7 +42,7 @@ def llm_part(relevant, user_query):
     return answer
 
 def retreiver(vectordb, user_query):
-    retriever = vectordb.as_retriever(search_type="similarity", search_kwargs={"k": 10})
+    retriever = vectordb.as_retriever(search_type="mmr", search_kwargs={"k": 10})
     relevant = retriever.invoke(user_query)
     return relevant
 
